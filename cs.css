@@ -94,3 +94,31 @@
   top:12.5%;
   left:70px;
 }
+.pol
+{
+  text-align:left;
+  padding-top:12px;
+  justify-content:space-between;
+  justify-content:center;
+  position:sticky;
+}
+.pol ol li
+{
+  list-style:none;
+  display:inline-block;
+  margin:0 6px;
+  position:sticky;
+}
+.pol a
+{
+  text-decoration: none;
+  text-transform:uppercase;
+  font-size:17px;
+  color:white;
+  position:sticky;
+}
+.pol ul li
+{
+  text-align:right;
+  postion:sticky;
+}
